@@ -1,0 +1,13 @@
+D:\oop\Baitap\btvn\bin\Debug\netcoreapp3.1\btvn.exe
+D:\oop\Baitap\btvn\bin\Debug\netcoreapp3.1\btvn.deps.json
+D:\oop\Baitap\btvn\bin\Debug\netcoreapp3.1\btvn.runtimeconfig.json
+D:\oop\Baitap\btvn\bin\Debug\netcoreapp3.1\btvn.runtimeconfig.dev.json
+D:\oop\Baitap\btvn\bin\Debug\netcoreapp3.1\btvn.dll
+D:\oop\Baitap\btvn\bin\Debug\netcoreapp3.1\btvn.pdb
+D:\oop\Baitap\btvn\obj\Debug\netcoreapp3.1\btvn.csprojAssemblyReference.cache
+D:\oop\Baitap\btvn\obj\Debug\netcoreapp3.1\btvn.AssemblyInfoInputs.cache
+D:\oop\Baitap\btvn\obj\Debug\netcoreapp3.1\btvn.AssemblyInfo.cs
+D:\oop\Baitap\btvn\obj\Debug\netcoreapp3.1\btvn.csproj.CoreCompileInputs.cache
+D:\oop\Baitap\btvn\obj\Debug\netcoreapp3.1\btvn.dll
+D:\oop\Baitap\btvn\obj\Debug\netcoreapp3.1\btvn.pdb
+D:\oop\Baitap\btvn\obj\Debug\netcoreapp3.1\btvn.genruntimeconfig.cache

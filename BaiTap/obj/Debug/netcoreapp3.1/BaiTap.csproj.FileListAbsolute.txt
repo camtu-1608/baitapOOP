@@ -1,0 +1,13 @@
+D:\oop\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.exe
+D:\oop\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.deps.json
+D:\oop\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.json
+D:\oop\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.dev.json
+D:\oop\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.dll
+D:\oop\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.pdb
+D:\oop\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csprojAssemblyReference.cache
+D:\oop\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfoInputs.cache
+D:\oop\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfo.cs
+D:\oop\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csproj.CoreCompileInputs.cache
+D:\oop\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.dll
+D:\oop\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.pdb
+D:\oop\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.genruntimeconfig.cache
