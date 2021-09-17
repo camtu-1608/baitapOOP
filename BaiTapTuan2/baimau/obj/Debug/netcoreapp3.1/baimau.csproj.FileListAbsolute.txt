@@ -1,0 +1,13 @@
+D:\oop\Baitap\baimau\baimau\bin\Debug\netcoreapp3.1\baimau.exe
+D:\oop\Baitap\baimau\baimau\bin\Debug\netcoreapp3.1\baimau.deps.json
+D:\oop\Baitap\baimau\baimau\bin\Debug\netcoreapp3.1\baimau.runtimeconfig.json
+D:\oop\Baitap\baimau\baimau\bin\Debug\netcoreapp3.1\baimau.runtimeconfig.dev.json
+D:\oop\Baitap\baimau\baimau\bin\Debug\netcoreapp3.1\baimau.dll
+D:\oop\Baitap\baimau\baimau\bin\Debug\netcoreapp3.1\baimau.pdb
+D:\oop\Baitap\baimau\baimau\obj\Debug\netcoreapp3.1\baimau.csprojAssemblyReference.cache
+D:\oop\Baitap\baimau\baimau\obj\Debug\netcoreapp3.1\baimau.AssemblyInfoInputs.cache
+D:\oop\Baitap\baimau\baimau\obj\Debug\netcoreapp3.1\baimau.AssemblyInfo.cs
+D:\oop\Baitap\baimau\baimau\obj\Debug\netcoreapp3.1\baimau.csproj.CoreCompileInputs.cache
+D:\oop\Baitap\baimau\baimau\obj\Debug\netcoreapp3.1\baimau.dll
+D:\oop\Baitap\baimau\baimau\obj\Debug\netcoreapp3.1\baimau.pdb
+D:\oop\Baitap\baimau\baimau\obj\Debug\netcoreapp3.1\baimau.genruntimeconfig.cache

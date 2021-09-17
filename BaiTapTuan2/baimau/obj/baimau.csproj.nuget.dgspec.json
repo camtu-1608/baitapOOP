@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\oop\\BaiTap\\BaiTap\\BaiTap.csproj": {}
+    "D:\\oop\\Baitap\\baimau\\baimau\\baimau.csproj": {}
   },
   "projects": {
-    "D:\\oop\\BaiTap\\BaiTap\\BaiTap.csproj": {
+    "D:\\oop\\Baitap\\baimau\\baimau\\baimau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\oop\\BaiTap\\BaiTap\\BaiTap.csproj",
-        "projectName": "BaiTap",
-        "projectPath": "D:\\oop\\BaiTap\\BaiTap\\BaiTap.csproj",
+        "projectUniqueName": "D:\\oop\\Baitap\\baimau\\baimau\\baimau.csproj",
+        "projectName": "baimau",
+        "projectPath": "D:\\oop\\Baitap\\baimau\\baimau\\baimau.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\oop\\BaiTap\\BaiTap\\obj\\",
+        "outputPath": "D:\\oop\\Baitap\\baimau\\baimau\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
